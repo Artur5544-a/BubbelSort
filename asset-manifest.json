@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BubbelSort/static/css/main.64ace8e7.css",
+    "main.js": "/BubbelSort/static/js/main.5f5a3428.js",
+    "index.html": "/BubbelSort/index.html",
+    "main.64ace8e7.css.map": "/BubbelSort/static/css/main.64ace8e7.css.map",
+    "main.5f5a3428.js.map": "/BubbelSort/static/js/main.5f5a3428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ace8e7.css",
+    "static/js/main.5f5a3428.js"
+  ]
+}
